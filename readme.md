@@ -2,6 +2,13 @@
 
 这是一个功能强大的Python脚本，用于搜索Telegram频道、查找相似频道，并管理您的Telegram账户。
 
+
+<div style="display: flex; justify-content: center; width: 100%;">
+    <img width="658" alt="image" src="https://github.com/user-attachments/assets/1278e7d9-072d-47d6-87b9-08e17b33d939">
+</div>
+
+
+
 ## 功能
 
 1. 根据关键词搜索Telegram频道
