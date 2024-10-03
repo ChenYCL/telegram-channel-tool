@@ -30,7 +30,7 @@
    pip install -r requirements.txt
    ```
 
-3. 创建一个 `.env` 文件，并添加以下内容：
+3. 创建一个 `.env` 文件，并添加以下内容(https://my.telegram.org/apps)：
    ```
    TELEGRAM_API_ID=你的API_ID
    TELEGRAM_API_HASH=你的API_HASH
